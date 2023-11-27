@@ -2,6 +2,8 @@ import React from "react";
 import Logo from "../../assets/Logo.svg";
 import LogoSkilvul from "../../assets/LogoSkilvul.png";
 
+// testtt
+
 function Certificate() {
   return (
     <div className="body-font font-poppins">
